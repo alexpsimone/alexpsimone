@@ -1,4 +1,4 @@
-<p align="center">:checkered_flag: :racing_car: Welcome to Alex Simone's GitHub profile!</p>
+<p align="center">:checkered_flag: :racing_car: Welcome to my GitHub profile!</p>
 
 <img src="datsun-897300_1280.jpg">
 
