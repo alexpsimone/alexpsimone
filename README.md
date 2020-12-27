@@ -1,4 +1,6 @@
-### Hi there 👋
+<img src="datsun-897300_1280.jpg">
+
+<p align="center">:racing_car: Welcome to Alex Simone's GitHub profile!</p>
 
 <!--
 **alexpsimone/alexpsimone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
