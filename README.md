@@ -1,6 +1,6 @@
-<img src="datsun-897300_1280.jpg">
+<p align="center">:checkered_flag: :racing_car: Welcome to Alex Simone's GitHub profile!</p>
 
-<p align="center">:racing_car: Welcome to Alex Simone's GitHub profile!</p>
+<img src="datsun-897300_1280.jpg">
 
 <!--
 **alexpsimone/alexpsimone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
